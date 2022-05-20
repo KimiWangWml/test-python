@@ -2,7 +2,7 @@ import turtle#引用turtle库
 
 turtle.title('PythonBingDwenDwen')
 
-turtle.speed(200) # 速度
+turtle.speed(150) # 速度
 
 # 左手
 turtle.penup()#提起画笔 别名turtle.pu
